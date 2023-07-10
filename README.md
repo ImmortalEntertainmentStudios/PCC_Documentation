@@ -1,2 +1,2 @@
 # PCC_Documentation
-Hi! Welcome to procedural 
+Demo and Documentation for the procedural character component. 
